@@ -1,6 +1,6 @@
 name: Node js app deploy to EKS
 on:
-  push:
+  push: 
     branches: [ "main" ]  
   pull_request:
     branches: [ "main" ]
